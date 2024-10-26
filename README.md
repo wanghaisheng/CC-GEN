@@ -1,4 +1,4 @@
-# Credit Card Generator
+# shop conna Credit Card Generator
 
 A simple, client-side credit card number generator for testing and development purposes.
 
